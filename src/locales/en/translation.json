@@ -1,0 +1,29 @@
+{
+  "buttons": {
+    "placeholder": {
+      "primary": "Primary",
+      "secondary": "Secondary",
+      "secondaryColored": "Outline",
+      "danger": "Danger"
+    },
+    "links": {
+      "website": "Github",
+      "back": "back"
+    },
+    "action": {
+      "nigthMode": "Night Mode"
+    }
+  },
+  "tabs": {
+    "items": "Grid View",
+    "activity": "Table View"
+  },
+  "emptyStates": {
+    "notFoundTitle": "404",
+    "notFoundDescription": "We can't find the page that you're looking for",
+    "homeButton": "Take me home"
+  },
+  "successMessages": {
+    "copyToClipboard": "Copied to clipboard!"
+  }
+}

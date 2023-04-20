@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: proxima-nova, sans-serif;
+  font-weight: 500;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Disable up and down arrows to input type = number */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+a {
+  text-decoration: none;
+}
+
+* :focus-visible {
+  outline: -webkit-focus-ring-color auto 1px !important;
+}
